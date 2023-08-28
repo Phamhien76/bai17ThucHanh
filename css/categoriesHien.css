@@ -1,0 +1,9 @@
+#btnEdit{
+    display: none;
+}
+#listTable th dt{
+    border: 1px solid black;
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+}
